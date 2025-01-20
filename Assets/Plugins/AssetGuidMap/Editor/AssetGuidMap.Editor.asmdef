@@ -1,0 +1,21 @@
+{
+    "name": "AssetGuidMap.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:aeb4b2a255bba4dc499e40736da40c1a",
+        "GUID:69448af7b92c7f342b298e06a37122aa",
+        "GUID:9e24947de15b9834991c9d8411ea37cf",
+        "GUID:0a779635286d84b4f89bc120583f8aaa"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

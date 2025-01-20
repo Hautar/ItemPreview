@@ -1,0 +1,19 @@
+{
+    "name": "Tasks",
+    "rootNamespace": "",
+    "references": [
+        "GUID:84651a3751eca9349aac36a66bba901b",
+        "GUID:734d92eba21c94caba915361bd5ac177",
+        "GUID:53ba734aa8ff451f8145bd0157b8a446",
+        "GUID:525ed2a8ed2dee44a87986d2a7c7cbf6"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

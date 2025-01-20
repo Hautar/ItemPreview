@@ -1,0 +1,26 @@
+{
+    "name": "ItemPreview",
+    "rootNamespace": "",
+    "references": [
+        "AssetGuidMap",
+        "AssetLoadingManager",
+        "Unity.ResourceManager",
+        "Unity.Addressables",
+        "Tasks",
+        "CommonExtensions",
+        "FileSystemExtensions",
+        "Unity.Mathematics",
+        "Paint",
+        "Unity.RenderPipelines.Universal.Runtime",
+        "Monads"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

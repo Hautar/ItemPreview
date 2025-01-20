@@ -1,0 +1,22 @@
+{
+    "name": "AssetLoadingManager",
+    "rootNamespace": "",
+    "references": [
+        "Unity.ResourceManager",
+        "Unity.Addressables",
+        "SpriteAtlasUtils",
+        "Utils",
+        "AssetGuidMap",
+        "HybridView.Render",
+        "PaperURP"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

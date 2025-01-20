@@ -1,0 +1,243 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9d495ff87f5a24f6ab1dc6b78bdb6228, type: 3}
+  m_Name: LocalAssetsBucketStorage
+  m_EditorClassIdentifier: 
+  buckets:
+  - Name: LocalResources
+    Id: 0
+    GuidCounter: 282
+    Assets:
+    - AssetReference:
+        m_AssetGUID: d75b4f6547ce05f47bee708796acbd9c
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      Guid:
+        Value: 256
+      Address: ItemPreview/RT_ItemPreviewCamOutput
+    - AssetReference:
+        m_AssetGUID: 86ad82f45da8e2341824acdfa0861d77
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      Guid:
+        Value: 257
+      Address: Prefabs/apple_001
+    - AssetReference:
+        m_AssetGUID: 148f39c355dbcd342a77c5edbfb43792
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      Guid:
+        Value: 258
+      Address: Prefabs/banana_001
+    - AssetReference:
+        m_AssetGUID: c7232173ec62a4648bc000bf0b5baf1a
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      Guid:
+        Value: 259
+      Address: Prefabs/burger_001
+    - AssetReference:
+        m_AssetGUID: 60568abbed781d643a95fe465ddf7d89
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      Guid:
+        Value: 260
+      Address: Prefabs/carrot_001
+    - AssetReference:
+        m_AssetGUID: 90eef2986e5621946bc6c49fa7c1bb59
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      Guid:
+        Value: 261
+      Address: Prefabs/chips_001
+    - AssetReference:
+        m_AssetGUID: 556e828522c2d664dacf6dde91f68efb
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      Guid:
+        Value: 262
+      Address: Prefabs/coffee_001
+    - AssetReference:
+        m_AssetGUID: e78c24f1f6682d048beb3ea4986f41bb
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      Guid:
+        Value: 263
+      Address: Prefabs/coffee_002
+    - AssetReference:
+        m_AssetGUID: 557f13dbb2a6872439b8c75bf3271c5d
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      Guid:
+        Value: 264
+      Address: Prefabs/donut_001
+    - AssetReference:
+        m_AssetGUID: b542f155b868c0e40834cb1333522ac2
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      Guid:
+        Value: 265
+      Address: Prefabs/drink_001
+    - AssetReference:
+        m_AssetGUID: 51d6319d2b9742640a6b2bb01da1dc59
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      Guid:
+        Value: 266
+      Address: Prefabs/drink_002
+    - AssetReference:
+        m_AssetGUID: e3a10d9641710d041a51eb9a528a6e9a
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      Guid:
+        Value: 267
+      Address: Prefabs/drink_003
+    - AssetReference:
+        m_AssetGUID: c2004775e0ce89f48af3e88e6f9555a4
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      Guid:
+        Value: 268
+      Address: Prefabs/drink_004
+    - AssetReference:
+        m_AssetGUID: 24598e7b217c94e4dbe0f0024ed2125f
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      Guid:
+        Value: 269
+      Address: Prefabs/eggplant_001
+    - AssetReference:
+        m_AssetGUID: 19778a1cec25085409918a09efe96dee
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      Guid:
+        Value: 270
+      Address: Prefabs/fish_001
+    - AssetReference:
+        m_AssetGUID: 58ecccecc9dac3849a79803e56ccc86c
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      Guid:
+        Value: 271
+      Address: Prefabs/fork_001
+    - AssetReference:
+        m_AssetGUID: 22f70e163a75b0643b7e1dfc8599f1a5
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      Guid:
+        Value: 272
+      Address: Prefabs/ice_cream_dish_001
+    - AssetReference:
+        m_AssetGUID: ff395a592fd37a64faade66bb8598f75
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      Guid:
+        Value: 273
+      Address: Prefabs/peach_001
+    - AssetReference:
+        m_AssetGUID: 4a4c3090dafff744191822abad106463
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      Guid:
+        Value: 274
+      Address: Prefabs/Plate_001
+    - AssetReference:
+        m_AssetGUID: a54320ccd6425504aae9421ac73b36e4
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      Guid:
+        Value: 275
+      Address: Prefabs/Pref_CubePrimitive
+    - AssetReference:
+        m_AssetGUID: 894ad6ec8aaa7f14d8d6cea5f753932b
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      Guid:
+        Value: 276
+      Address: Prefabs/sandwich_001
+    - AssetReference:
+        m_AssetGUID: d1f70b40c48b823429bc0d9adc4c0a09
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      Guid:
+        Value: 277
+      Address: Prefabs/sausages_001
+    - AssetReference:
+        m_AssetGUID: 33bd3696e4ffca649b47370f28ae1193
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      Guid:
+        Value: 278
+      Address: Prefabs/sushi_dish_001
+    - AssetReference:
+        m_AssetGUID: 31ec181664c141943b9c7bee2d073cbf
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      Guid:
+        Value: 279
+      Address: Prefabs/tomato_001
+    - AssetReference:
+        m_AssetGUID: 2a40e4178ccfbc34bbd02a2aa5924c4d
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      Guid:
+        Value: 280
+      Address: Prefabs/wineglass_001
+    - AssetReference:
+        m_AssetGUID: 4be770614820e82428bff74e713e0134
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      Guid:
+        Value: 281
+      Address: Prefabs/wineglass_002
+    - AssetReference:
+        m_AssetGUID: 6012fccf4ebae9e4cb47349aa82f193d
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      Guid:
+        Value: 282
+      Address: Prefabs/yogurt_001
+    - AssetReference:
+        m_AssetGUID: 7e07fb271ca1a764aaf8d3ad6f06b029
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      Guid:
+        Value: 283
+      Address: Settings/View/LocalAssetsBucketStorage
